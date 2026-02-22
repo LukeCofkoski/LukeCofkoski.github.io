@@ -35,4 +35,17 @@
         ],
         "link": "https://github.com/centi-hack/discord-bot"
     }
+        {
+        "id": 4,
+        "title": "hello world test",
+        "description": "Enterprise-scale Discord bot with complex command systems, automated moderation, and real-time dashboard.",
+        "image": "/assets/cpp-graphics.png",
+        "tags": [
+            "poop",
+            "Node.js",
+            "Discord.js"
+        ],
+        "link": "https://roblox.com"
+    }
+
 ]
