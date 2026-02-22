@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Rust Game Engine",
+        "description": "A high-performance voxel-based game engine written in Rust. Features multithreaded terrain generation and custom lighting.",
+        "image": "/assets/rust-engine.png",
+        "tags": [
+            "Rust",
+            "Graphics",
+            "WGPU"
+        ],
+        "link": "https://github.com/centi-hack/rust-engine"
+    },
+    {
+        "id": 2,
+        "title": "C++ Modern Renderer",
+        "description": "Modern C++20 rendering framework utilizing Vulkan for real-time ray tracing and advanced post-processing effects.",
+        "image": "/assets/cpp-graphics.png",
+        "tags": [
+            "C++",
+            "Vulkan",
+            "RayTracing"
+        ],
+        "link": "https://github.com/centi-hack/cpp-renderer"
+    },
+    {
+        "id": 3,
+        "title": "Advanced Discord Bot",
+        "description": "Enterprise-scale Discord bot with complex command systems, automated moderation, and real-time dashboard.",
+        "image": "/assets/discord-bot.png",
+        "tags": [
+            "TypeScript",
+            "Node.js",
+            "Discord.js"
+        ],
+        "link": "https://github.com/centi-hack/discord-bot"
+    }
+]
